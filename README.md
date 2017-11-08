@@ -1,7 +1,7 @@
 # sample-api-mock
 api mock sample (for API Blueprint)
 
-# Get the code
+### Get the code
 ```
 git clone https://github.com/nishi2244/sample-api-mock
 cd sample-api-mock
