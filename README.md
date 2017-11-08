@@ -1,25 +1,28 @@
 # sample-api-mock
 api mock sample (for API Blueprint)
 
-### install
+# Get the code
+```
+git clone https://github.com/nishi2244/sample-api-mock
+cd sample-api-mock
+```
+
+### Install dependencies
 ```
 npm install
 ```
 
-### run
+### Run it
 terminal command
 ```
 npm run drakov
 ```
 
-### stop
-crtl + c
+### Stop
+Keyboard shortcut. crtl + c.
 
-### modify api
-edit markdown files
+### Modify api
+Edit markdown files.
 ```
 vi ./src/message.md
 ```
-
-
-
